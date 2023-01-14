@@ -1,0 +1,38 @@
+Инструменты для техников:
+
+itm_basickit				= 1, 1 ; Грубой работы
+itm_advancedkit				= 1, 1 ; Тонкой работы
+itm_expertkit				= 1, 1 ; Калибровки
+
+Мод: EXOSEVA CBSE OUTFITS (В моде больше не используется, для самовставки)
+
+exoseva_outfit					= 1,1
+dolg_exoseva_outfit					= 1,1
+merc_exoseva_outfit					= 1,1
+military_exoseva_outfit					= 1,1
+monolith_exoseva_outfit					= 1,1
+svoboda_exoseva_outfit					= 1,1
+isg_exoseva_outfit					= 1,1
+ecolog_exoseva_outfit					= 1,1
+
+Мод: POWERED EXOSKELETONS (В моде больше не используется, для самовставки)
+
+exo_power_supply				= 1, 1
+exo_power_supply_military				= 1, 1
+exo_power_supply_proto				= 1, 1
+batteries_exo				= 1, 1
+
+Мод: Expanded Armor Pack (В моде больше не используется, для самовставки)
+
+nbc_coat					= 1,1
+ps5m_neutral1_outfit					= 1,1
+ps5m_neutral2_outfit					= 1,1
+military_loner_outfit					= 1,1
+operator_isg_outfit					= 1,1
+ghost_isg_outfit					= 1,1
+exolight_outfit_neutral_legend					= 1,1
+ps5m_neutral3_outfit					= 1,1
+ps5m_neutral4_outfit					= 1,1
+military_loner_outfit2					= 1,1
+scar_outfit_mercenary					= 1,1
+wolfhound_outfit_mercenary					= 1,1
